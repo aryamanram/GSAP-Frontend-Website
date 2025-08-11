@@ -1,7 +1,12 @@
 import React from 'react'
 import {navLinks} from "../../constants/index.js";
+import {useGSAP} from "@gsap/react";
 
 const Navbar = () => {
+    useGSAP(() => {
+        const 
+    })
+
     return (
         <nav>
             <div>
